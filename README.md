@@ -1,1 +1,1 @@
-firstjob.shoes.advertising.advertising.
+firstjob.shoes.advertising.advertising
